@@ -1,0 +1,16 @@
+{
+  "name": "css-flexbox-playlist",
+  "version": "1.0.0",
+  "description": "css flexbox",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.9.2"
+  }
+}
